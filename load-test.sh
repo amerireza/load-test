@@ -1,6 +1,7 @@
 max="$1"
 date
-echo "url: $2
+
+echo "url: $2 \
 rate: $max calls / second"
 START=$(date +%s);
 
