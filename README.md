@@ -3,7 +3,7 @@
 This script is used for creating **n** curl requests per second to your specified URL.
 In order to use it just easily run this command:
 
-```sh test.sh 10 http://[your domain name]:[your port]/[your resources]```
+```sh test.sh [n] http://[your domain name]:[your port]/[your resources]```
 
 
 
